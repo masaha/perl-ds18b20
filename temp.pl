@@ -1,6 +1,6 @@
 #!/usr/bin/perl -w
 #
-# Script to read temparute output from DS18B20 file and reformat for publishing on web-page
+# Script to read temperature output from DS18B20 file and reformat for publishing on web-page
 #
 use strict;
 use POSIX qw(strftime);
